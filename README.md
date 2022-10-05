@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BravinR
-- 👀 I’m interested in Java, Spring, MongoDb, python,react and AWS.
+- 👀 I’m interested in Java, Spring, MongoDB, python,react and AWS.
 - 🌱 I’m currently learning react.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me twitter @BravinRutto.
